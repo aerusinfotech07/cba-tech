@@ -250,7 +250,3 @@ git branch -M main
 git remote add origin git@github.com:aerusinfotech07/cba-tech.git
 git push -u origin main
 
-
-git remote add origin git@github.com:aerusinfotech07/cba-tech.git
-git branch -M main
-git push -u origin main
